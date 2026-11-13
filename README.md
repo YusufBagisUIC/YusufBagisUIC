@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hey, I'm Yusuf!
 
-<!--
-**YusufBagisUIC/YusufBagisUIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science @ University of Illinois Chicago
 
-Here are some ideas to get you started:
+I'm a Computer Science student at the **University of Illinois Chicago (UIC)** with a concentration in Software Engineering. I'm passionate about building meaningful technology, solving complex problems, and exploring the intersection of **Artificial Intelligence, Machine Learning, and Software Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Pursuing a B.S. in Computer Science at UIC
+- Undergraduate Research Assistant in the Human-Centered Engineering Lab
+- Interested in AI/ML, Software Engineering, and Human-Computer Interaction
+- Enjoy working on projects involving systems programming, databases, and intelligent applications
+- Always learning new technologies and improving my skills
+
+## Tech Stack
+
+**Languages**
+
+Python | C | C++ | SQL
+
+**Areas of Interest**
+
+Artificial Intelligence | Machine Learning | Software Engineering | Human-Centered Computing
+
+## What I'm Working On
+
+- Exploring AI/ML applications through university research
+- Strengthening my knowledge of systems programming and software architecture
+- Building practical projects that combine software engineering and problem-solving
+
+## Let's Connect
+
+I'm always interested in connecting with fellow developers, researchers, and people passionate about technology.
+
+- **LinkedIn:** [linkedin.com/in/yusufbagis](https://www.linkedin.com/in/yusufbagis/)
+- **Email:** [ybagi@uic.edu](mailto:ybagi@uic.edu)
+
+---
+
+*Thanks for stopping by. Feel free to explore my repositories.*
