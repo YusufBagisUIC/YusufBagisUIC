@@ -35,6 +35,4 @@ I'm always interested in connecting with fellow developers, researchers, and peo
 - **LinkedIn:** [linkedin.com/in/yusufbagis](https://www.linkedin.com/in/yusufbagis/)
 - **Email:** [ybagi@uic.edu](mailto:ybagi@uic.edu)
 
----
 
-*Thanks for stopping by. Feel free to explore my repositories.*
